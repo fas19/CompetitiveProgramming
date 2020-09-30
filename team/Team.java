@@ -1,4 +1,4 @@
-package Team;
+package team;
 //https://codeforces.com/problemset/problem/231/A
 
 import java.util.Scanner;
