@@ -1,4 +1,4 @@
-package WayTooLongWords;
+package waytoolongwords;
 //https://codeforces.com/problemset/problem/71/A
 
 import java.util.Scanner;
