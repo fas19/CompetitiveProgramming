@@ -1,4 +1,5 @@
 package beautifulmatrix;
+//https://codeforces.com/problemset/problem/263/A
 
 import java.util.Scanner;
 

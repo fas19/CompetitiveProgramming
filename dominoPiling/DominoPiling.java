@@ -1,4 +1,5 @@
 package dominoPiling;
+//https://codeforces.com/problemset/problem/50/A
 
 import java.util.Scanner;
 

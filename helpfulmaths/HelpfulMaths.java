@@ -1,4 +1,5 @@
 package helpfulmaths;
+//https://codeforces.com/problemset/problem/339/A
 
 import java.util.Scanner;
 
